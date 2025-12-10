@@ -1,10 +1,11 @@
 # Opa! Vai um cafézinho ☕?
 
-<div>
+<!-- <div>
   <a href="https://github.com/soudael/soudael">
   <img height="160" src = "https://github-readme-stats.vercel.app/api?username=soudael&show_icons=true&theme=aura_dark"/>
   <img height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soudael&layout=compact&theme=aura_dark"/>
 </div>
+><!-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dael-C#" height="40" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
