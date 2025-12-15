@@ -4,6 +4,7 @@
 
 I'm a brazilian indie developer, still got a long road of knowledge to walk on. I've been drawing since I was a little kid, nowadays working as a Digital Artist and Pixel Artist for a studio. I love making art and expressing my creativity, and sharing my ideas to the world. Im still an amateur game developer, but I'm on my journey to make masterpieces.
 
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -26,15 +27,31 @@ I'm a brazilian indie developer, still got a long road of knowledge to walk on. 
   <img src="https://img.shields.io/badge/-Aseprite-252526?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
 </p>
 
+
 ## 🎮 Games
 
 ### Divinastros
 - I'm currently working as an pixel artist for the game by <a href="https://www.instagram.com/astralgamestudio/">Astral Games Studios</a>, which will be published by <a href="https://nuntiusgames.com/">Nuntius</a>.
+
+<h6 align="center">Divinastros Banner</h6>
 <p align="center">
   <a href="https://store.steampowered.com/app/3033030/Divinastros/">
     <img width="75%" src="./assets/Divinastros_Banner.png" atl="Divinastros Banner"/>
   </a>
 </p>
 
+
 ### Critical Kitchen
 - I'm also working on my personal project called <a href="https://github.com/soudael/critical-kitchen">Critical Kitchen</a> as a solo developer.
+
+<h6 align="center">Kitchen Concept Art Peek</h6>
+<p align="center">
+  <a href="https://store.steampowered.com/app/3033030/Divinastros/">
+    <img width="75%" src="./assets/Kitchen_ConceptArt.png" atl="Divinastros Banner"/>
+  </a>
+</p>
+
+
+## 📊 Stats
+
+![Soudael's GitHub stats](https://github-readme-stats.vercel.app/api?username=soudael&show_icons=true&theme=github_dark)
