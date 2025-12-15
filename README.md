@@ -33,20 +33,21 @@ I'm a brazilian indie developer, still got a long road of knowledge to walk on. 
 ### Divinastros
 - I'm currently working as an pixel artist for the game by <a href="https://www.instagram.com/astralgamestudio/">Astral Games Studios</a>, which will be published by <a href="https://nuntiusgames.com/">Nuntius</a>.
 
-<h6 align="center">Divinastros Banner</h6>
+<h6 align="center">Divinastros Banner — Click to visit the Steam page</h6>
 <p align="center">
   <a href="https://store.steampowered.com/app/3033030/Divinastros/">
     <img width="75%" src="./assets/Divinastros_Banner.png" atl="Divinastros Banner"/>
   </a>
 </p>
 
+---
 
 ### Critical Kitchen
 - I'm also working on my personal project called <a href="https://github.com/soudael/critical-kitchen">Critical Kitchen</a> as a solo developer.
 
-<h6 align="center">Kitchen Concept Art Peek</h6>
+<h6 align="center">Kitchen Concept Art Peek — Click to visit the repository</h6>
 <p align="center">
-  <a href="https://store.steampowered.com/app/3033030/Divinastros/">
+  <a href="https://github.com/soudael/critical-kitchen">
     <img width="75%" src="./assets/Kitchen_ConceptArt.png" atl="Divinastros Banner"/>
   </a>
 </p>
