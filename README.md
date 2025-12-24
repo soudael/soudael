@@ -9,12 +9,12 @@ I'm a brazilian indie developer, still got a long road of knowledge to walk on. 
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" /> <!-- UNITY -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" alt="SDL" /> <!-- SDL -->
+  <!-- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" alt="SDL" /> SDL -->
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> <!-- VSCODE -->
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png?20230919100100" alt="Aseprite" /> <!-- ASEPRITE -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /> <!-- C++ -->
+  <!-- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /> C++ -->
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" /> <!-- C# -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" /> <!-- CMAKE -->
+  <!-- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" /> CMAKE -->
 </p>
 
 <p align="center">
