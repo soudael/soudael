@@ -45,7 +45,7 @@ I'm a brazilian indie developer, still got a long road of knowledge to walk on. 
 ### Critical Kitchen
 - I'm also working on my personal project called <a href="https://github.com/soudael/critical-kitchen">Critical Kitchen</a> as a solo developer.
 
-<h6 align="center">Kitchen Concept Art Peek — Click to visit the repository</h6>
+<h6 align="center">Kitchen Concept Art — Click to visit the repository</h6>
 <p align="center">
   <a href="https://github.com/soudael/critical-kitchen">
     <img width="75%" src="./assets/Kitchen_ConceptArt.png" atl="Divinastros Banner"/>
